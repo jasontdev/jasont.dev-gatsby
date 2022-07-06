@@ -1,0 +1,57 @@
+.container {
+  justify-content: center;
+  background-color: #E6E6E6;
+  min-height: 24rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.lightBackground {
+  background-color: white;
+}
+
+.text {
+  width: 24rem;
+  height: 24rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.textTitle {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.textBody {
+  font-weight: medium;
+  font-size: large;
+}
+
+.animation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 24rem;
+  height: 24rem;
+  padding: 1rem;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+  font-size: x-large;
+  font-weight: bolder;
+  height: 3.8rem;
+  width: 3.8rem;
+  background-color: grey;
+}

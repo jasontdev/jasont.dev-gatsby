@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #E6E6E6;
+    height: 4rem;
+    font-size: large;
+    font-weight: bold;
+    padding: 0 1rem 0 1rem;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 1rem;
+}
+
+.inactive {
+    color: lightgray;
+}
